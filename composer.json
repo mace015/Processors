@@ -1,0 +1,12 @@
+{
+    "name": "muilman/processors",
+    "description": "A simple package to clean up cluttered controllers.",
+    "type": "Laravel",
+    "authors": [
+        {
+            "name": "Mace Muilman",
+            "email": "mace@macemuilman.nl"
+        }
+    ],
+    "require": {}
+}
