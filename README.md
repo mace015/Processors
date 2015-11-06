@@ -13,5 +13,5 @@ Calling a processor from anywhere is very simple;
 # Installation
 Installing this package is very simple;
 - Install the package with composer: `composer require muilman/processors`.
-- Add the service provider to Config/app.php: `'Muilman\Processors\ProcessorServiceProvider'`.
+- Add the service provider to Config/app.php: `Muilman\Processors\ProcessorServiceProvider::class`.
 - Optional: Add the Processors alias to the aliases in Config/app.php: `'Processor' => '\App\Processors\BaseProcessor',`.
