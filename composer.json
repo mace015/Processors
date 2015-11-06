@@ -11,5 +11,5 @@
     "require": {},
     "autoload": {
         "psr-0": {"Muilman\\Processors": "src/"}
-    },
+    }
 }
