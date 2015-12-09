@@ -10,6 +10,6 @@
     ],
     "require": {},
     "autoload": {
-        "psr-4": {"Muilman\\Processors": "src/"}
+        "psr-4": {"Muilman\\Processors\\": "src/"}
     }
 }
